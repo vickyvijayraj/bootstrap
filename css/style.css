@@ -1,0 +1,15 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+body{font-family: 'Kodchasan', sans-serif;}
+.eagle-header{color:tomato;}
+.footer {
+    background: #000000;
+    padding: 1rem;
+   }
+.footer h5{color:#FFF;} 
+.footer p{color:tomato;}  
+.links a{color:tomato;}
+ul.footer-nav li{list-style-type:none;}
+ul.footer-nav li a{color:tomato;}
+.prey{
+    margin: 0;
+}
